@@ -68,4 +68,6 @@ La tercera forma normal (**3NF**) añade que **todos los atributos no clave debe
 
 Un ejemplo común es el de direcciones. Un registro de dirección puede ser más atómico si se divide en tablas separadas para países, ciudades y departamentos. Aunque algunas empresas prefieren una tabla única de direcciones, el proceso de normalización busca siempre la estructura más eficiente y organizada.
 
+## Conclusiones
+
 Entender estas formas de normalización y aplicarlas correctamente mejora la calidad y gestión de los datos en cualquier base de datos.
