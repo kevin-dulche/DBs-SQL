@@ -2,5 +2,6 @@
 
 ## Índice
 
-| # | Cápitulo |
+| # | Contenido |
+|---|-----------|
 | 1 | [BUENAS PRACTICAS - NORMALIZACIÓN](1_BuenasPracticas.md) |
