@@ -1,0 +1,2 @@
+DELETE FROM STUDENT_COURSE
+WHERE student_course_id = 2;
