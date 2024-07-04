@@ -9,3 +9,5 @@
 | 3 | [FILTRAR Y ORDENAR DATOS EN SQL (LIKE)](3_FiltrarOrdenarDatosSQL.md) |
 | 4 | [PRÁCTICA: FILTRAR DATOS CON WHERE EN SQL](4_PracticaFiltrarDatosSQL.md) |
 | 5 | [CLÁUSULAS DE COMPARACIÓN TEXTUAL EN SQL (AND, NULL, IN, NOT)](5_ClausulasCommparacionTextual.md) |
+| 6 | [FUNCIONES DE ARITMÉTICA BÁSICA EN SQL(COUNT, SUM, AVG)](6_FuncionesAritmeticaBasica.md) |
+| 7 | [FUNCIONES DE ARITMÉTICA BÁSICA EN SQL(MIN, MAX)](6_FuncionesAritmeticaBasica.md) |
